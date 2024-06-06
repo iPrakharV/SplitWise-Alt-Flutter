@@ -48,6 +48,17 @@ Allows users to register with their details. Validates inputs like name, email, 
 
 The main screen of the app where users can manage their expenses.
 
+## Screenshots
+
+Here are some screenshots of the app:
+
+### Splash Screen
+![Splash Screen](https://github.com/iPrakharV/splitwise_clone/blob/main/assets/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-06%20at%2018.17.28.png)
+
+### Onboarding Screen
+![Onboarding Screen ](https://github.com/iPrakharV/splitwise_clone/blob/main/assets/screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-06%20at%2018.17.22.png)
+
+
 ## State Management
 
 The app uses the BLoC (Business Logic Component) pattern for state management. This pattern helps in separating business logic from UI components, making the app more modular and easier to maintain.
